@@ -10,11 +10,10 @@
 ![캡처](https://user-images.githubusercontent.com/102017647/170690928-39be5e91-db63-48e8-9a5d-1a4ae5e4bfa1.PNG)
 
 
-개발 부분
+내 개발 부분
+사이트 데이터베이스 ERD 설계를 하였습니다. <br>
 rest api와 ajax를 통해서 리스트 페이징을 개발했습니다.<br>
-juqery를 통해 모달 페이지, 아이템 리스트 페이징을 개발했습니다. <br>
-보여지는 페이지는 jquery를 이용해 개발했습니다.<br>
-관리자 페이지는 react, redux를 이용해 만들었습니다.<br>
+jquery를 통해 모달 페이지, 아이템 리스트 페이징을 개발했습니다. <br>
 react를 이용해 모달 페이지를 만들었습니다.<br>
 terraform 을 사용해 서버 자동화로 개발 시간을 절감할 수 있었습니다. <br>
 
