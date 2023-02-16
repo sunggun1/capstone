@@ -302,30 +302,32 @@ terraform destroy(실서버에 적용한 것 돌려놓기)
 ![image](https://user-images.githubusercontent.com/17981550/219289549-673b99ec-2ccc-4a6c-9b64-62c6cbe80870.png)
 
 * 강의 등록 페이지
+
 ![image](https://user-images.githubusercontent.com/17981550/219289881-5b2e9925-1b26-4630-912f-bfa5d4a2200c.png)
 
 * 강의 상세 페이지
+
 ![image](https://user-images.githubusercontent.com/17981550/219290021-1dd9a38c-82ca-470e-b4a6-792de9e18b38.png)
 
-* 강의 관심목록 페이지
+* 강의 관심목록 페이지 <br>
 ![image](https://user-images.githubusercontent.com/17981550/219290150-76a0fa3f-b468-4438-8f49-59aefb640f1b.png)
 
-* 게시판 페이지
+* 게시판 페이지 <br>
 ![image](https://user-images.githubusercontent.com/17981550/219290208-d44bd8cf-c07a-42a2-a1f6-953fd9dbd8da.png)
 
-* 게시판 상세 페이지
+* 게시판 상세 페이지 <br>
 ![image](https://user-images.githubusercontent.com/17981550/219290288-3d9cdc11-9124-4e9b-9df7-ee8b3b26f385.png)
 
-* 1대 1 문의 페이지
+* 1대 1 문의 페이지 <br>
 ![image](https://user-images.githubusercontent.com/17981550/219290344-91ac4c3a-9d0a-4c8e-88de-576f4f0d9d0e.png)
 
-* 관리자 유저 변경 페이지
+* 관리자 유저 변경 페이지 <br>
 ![image](https://user-images.githubusercontent.com/17981550/219290550-f55a40a7-f345-4081-858c-5372884cb9b4.png)
 
-* 관리자 광고 영역 모달 페이지
+* 관리자 광고 영역 모달 페이지 <br>
 ![image](https://user-images.githubusercontent.com/17981550/219290628-44c19a08-2cde-45a0-9576-3864bc615c04.png)
 
-* 관리자 1대1 문의 답변 페이지
+* 관리자 1대1 문의 답변 페이지 <br>
 ![image](https://user-images.githubusercontent.com/17981550/219290754-04483f66-6a6e-4727-997e-04a8ca83de3a.png)
 
 
