@@ -14,9 +14,17 @@
 
 백엔드 : php laravel
 
-프론트엔드 : jquery, sass, react, redux
+프론트엔드 : bootStrap, jquery, sass, react(관리자 페이지), redux(관리자 페이지)
 
 서버 : terraform, aws ec2, rds, codepipeline CI/CD
+
+크롤링 : python beautifulSoup
+
+
+rest api와 ajax를 통해서 페이징을 개발했습니다.
+juqery를 통해 모달 페이지, 아이템 리스트 페이징을 개발했습니다. 
+보여지는 페이지는 jquery를 이용해 개발했습니다.
+관리자 페이지는 react, redux를 이용해 만들었습니다.
 
 
 
