@@ -10,8 +10,13 @@
 ![캡처](https://user-images.githubusercontent.com/102017647/170690928-39be5e91-db63-48e8-9a5d-1a4ae5e4bfa1.PNG)
 
 
+사용 기술
 
+백엔드 : php laravel
 
+프론트엔드 : jquery, sass, react, redux
+
+서버 : terraform, aws ec2, rds, codepipeline CI/CD
 
 
 
@@ -277,6 +282,8 @@ terraform destroy(실서버에 적용한 것 돌려놓기)
 
 
 ![어드민](https://user-images.githubusercontent.com/102017647/170691434-59bc4e68-4401-4ccf-9fc7-b0e35b1654ce.PNG)
+
+
 
 
 # 팀원
