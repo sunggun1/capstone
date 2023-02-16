@@ -10,7 +10,7 @@
 ![캡처](https://user-images.githubusercontent.com/102017647/170690928-39be5e91-db63-48e8-9a5d-1a4ae5e4bfa1.PNG)
 
 
-내 개발 부분
+내 개발 부분 <br>
 사이트 데이터베이스 ERD 설계를 하였습니다. <br>
 rest api와 ajax를 통해서 리스트 페이징을 개발했습니다.<br>
 jquery를 통해 모달 페이지, 아이템 리스트 페이징을 개발했습니다. <br>
