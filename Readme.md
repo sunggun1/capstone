@@ -28,6 +28,7 @@ db : aws rds - mysql <br>
 CI/CD : aws codepipeline <br>
 인프라스트럭처 자동화(Infrastructure as Code) : terraform <br>
 로컬 개발 : Docker , Docker-compose <br>
+redis 세션 객체 사용하였습니다.
 
 
 
