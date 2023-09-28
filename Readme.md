@@ -16,7 +16,7 @@
 rest api와 ajax를 통해서 리스트 페이징을 개발했습니다.<br>
 jquery를 통해 모달 페이지, 아이템 리스트 페이징을 개발했습니다. <br>
 react를 이용해 모달 페이지를 만들었습니다.<br>
-terraform 을 사용해 서버 자동화로 개발 시간을 절감할 수 있었습니다. <br>
+docker와 ecs로 auto balancing으로 여러개의 서비스를 만들고 redis로 세션 클러스터링을 만들었습니다. 이를 terraform을 사용해서 개발을 해서 서버 자동화로 개발 시간을 절감할 수 있었습니다. <br>
 
 사용 기술 <br> 
 크롤링 - Python,konlpy( 형태소 분석, 자연어 처리), 이미지 저장 <br> 
