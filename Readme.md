@@ -32,6 +32,17 @@ CI/CD : aws codepipeline <br>
 elasticache redis 세션 사용하였습니다.
 ecs를 이용하여 blue-green 배포를 하였습니다.
 
+<br>
+JIRA / CONFLUENCE 를 이용한 일정 관리<br>
+
+![image](https://github.com/sunggun1/capstone/assets/17981550/5e300a03-7dfa-4c6d-8a04-95426e7a413d)
+
+
+ERD 설계<br>
+
+![image](https://github.com/sunggun1/capstone/assets/17981550/d96602e9-b7cc-48c7-9988-5902261261ea)
+
+
 
 
 # 목차
