@@ -6,7 +6,6 @@
 
 이러한 단점을 보완하기 위해 여러 사이트의 강의들을 한 사이트에서 검색할 수 있도록 하여 소비자친화적인 사이트를 구현하였다. 이를 통해 강사 역시 소비자에게 쉽게 노출되어 광고비용 및 시간을 절감할 수 있도록 한다.
 
-# 사용 스킬
 개발 스택: PHP LARAVEL, JAVASCRIPT, JQUERY, REACT, REDUX, TERRAFORM, DOCKER-COMPOSE, ECS, ECR, REDIS, CODEPIPELINE , RDS, S3 , PYTHON CRAWLING
 
 
@@ -385,4 +384,5 @@ github : https://github.com/sunggun1
 크롤링  : https://github.com/hansungingang/capstone_crawling
 
 사이트 주소 : http://demo-257674007.ap-northeast-2.elb.amazonaws.com/
+
 
